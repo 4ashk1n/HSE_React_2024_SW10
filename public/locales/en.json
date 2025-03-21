@@ -1,0 +1,6 @@
+{
+  "title": "Notifications",
+  "message": "You have {{count}} {{messages}} ({{date}})",
+  "messages_one": "unread message",
+  "messages_other": "unread messages"
+}
